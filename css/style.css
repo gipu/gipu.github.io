@@ -975,7 +975,7 @@
 			{
 				color: inherit;
 			}
-.dropotron { background: #444; border-radius: 0.5em; list-style: none; margin: 0; min-width: 10em; padding: 0.75em 1em 0.75em 1em; }
+.dropotron { background: #444; border-radius: 0.5em; list-style: none; margin: 0; min-width: 10em; padding: 0.75em 1em 0.75em 1em; z-index: 1000000 }
 .dropotron > li { border-top: solid 1px #555; margin: 0; padding: 0; }
 .dropotron > li:first-child { border-top: 0; }
 .dropotron > li > a { color: #ccc; display: block; padding: 0.5em 0 0.5em 0; text-decoration: none; }
